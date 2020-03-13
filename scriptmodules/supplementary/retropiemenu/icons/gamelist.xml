@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./audiosettings.rp</path>
+		<name>Audio Config</name>
+		<desc>Configure audio settings. Choose default of auto, 3.5mm jack, or HDMI. Mixer controls, and apply default settings.</desc>
+		<image>./icons/audiosettings.png</image>
+	</game>
+	<game>
+		<path>./BGM_Toggle.sh</path>
+		<name>BGM Toggle On/Off</name>
+		<desc>Toggles background music ON/OFF.</desc>
+		<image>./icons/BGM.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20191105T094324</lastplayed>
+	</game>
+	<game>
+		<path>./bluetooth.rp</path>
+		<name>Bluetooth Config</name>
+		<desc>Register and connect to bluetooth devices. Unregister and remove devices, and display registered and connected devices.</desc>
+		<image>./icons/bluetooth.png</image>
+	</game>
+	<game>
+		<path>./configedit.rp</path>
+		<name>Text Config Editor</name>
+		<desc>Change common RetroArch options, and manually edit RetroArch configs, global configs, and non-RetroArch configs.</desc>
+		<image>./icons/configedit.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20191108T155412</lastplayed>
+	</game>
+	<game>
+		<path>./coresupdate.sh</path>
+		<name>Retroarch Cores Updater</name>
+		<desc>Update all cores of Retroarch from Retropie menu</desc>
+		<image>./icons/coresupdate.png</image>
+		<playcount>4</playcount>
+		<lastplayed>20191116T090546</lastplayed>
+	</game>
+	<game>
+		<path>./dispMenu.sh</path>
+		<name>Display Driver Update</name>
+		<desc>Updates the available binaries for all displays drivers</desc>
+		<image>./icons/dispmanx.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20191117T023411</lastplayed>
+	</game>
+	<game>
+		<path>./dispMenuCM3.sh</path>
+		<name>Display Driver Config</name>
+		<desc>Choose which display driver to use, between two versions of the experimental driver and the default driver</desc>
+		<image>./icons/dispmanx.png</image>
+		<playcount>0</playcount>
+		<lastplayed>20180514T205700</lastplayed>
+	</game>
+	<game>
+		<path>./esthemes.rp</path>
+		<name>ES Themes Config</name>
+		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://github.com/retropie/ RetroPie-Setup/wiki/themes.</desc>
+		<image>./icons/esthemes.png</image>
+	</game>
+	<game>
+		<path>./filemanager.rp</path>
+		<name>File Explorer</name>
+		<desc>Basic ascii file manager for linux allowing you to browse, copy, delete, and move files.</desc>
+		<image>./icons/filemanager.png</image>
+	</game>
+	<game>
+		<path>./Freeplay LCD Brightness.sh</path>
+		<name>Display Brightness Config</name>
+		<desc>Control your screen brightness. Persists on reboot.</desc>
+		<image>./icons/Brightness.png</image>
+		<playcount>11</playcount>
+		<lastplayed>20191106T022556</lastplayed>
+	</game>
+	<game>
+		<path>./FreeplayAudioTools.sh</path>
+		<name>Freeplay Audio Config</name>
+		<desc>Tools to toggle between mono/stereo audio and enable HDMI audio</desc>
+		<image>./icons/audiosettings.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20191105T094128</lastplayed>
+	</game>
+	<game>
+		<path>./Install Background Music.sh</path>
+		<name>BGM Install/Config</name>
+		<desc>Installer and Updater script that also offers configuration of fade-in/fade-out times as well as adjusting volume of the BGM app globally</desc>
+		<image>./icons/BGM2.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20191106T021742</lastplayed>
+	</game>
+	<game>
+		<path>./mk_joystick_config.sh</path>
+		<name>Freeplay Input Config</name>
+		<desc>Configure the button layout or even add your own with this configurator, make the inputs behave as you desire</desc>
+		<image>./icons/mk_joystick_config.png</image>
+		<playcount>8</playcount>
+		<lastplayed>20191108T164927</lastplayed>
+	</game>
+	<game>
+		<path>./OptimalLCDSettings.sh</path>
+		<name>Optimal Display Config</name>
+		<desc>Switch between optimal LCD settings and HDMI compatibility</desc>
+		<image>./icons/bestdisplay.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20191105T094219</lastplayed>
+	</game>
+	<game>
+		<path>./raspiconfig.rp</path>
+		<name>Raspi-Config</name>
+		<desc>Change user password, boot options, internationalization, camera, add your pi to Rastrack, overclock, overscan, memory split, SSH and more.</desc>
+		<image>./icons/raspiconfig.png</image>
+		<playcount>1</playcount>
+		<lastplayed>20190815T170626</lastplayed>
+	</game>
+	<game>
+		<path>./retroarch.rp</path>
+		<name>Retroarch</name>
+		<desc>Launches the RetroArch GUI so you can change RetroArch options. Note: Changes will not be saved unless you have enabled the "Save Configuration On Exit" option.</desc>
+		<image>./icons/retroarch.png</image>
+		<playcount>5</playcount>
+		<lastplayed>20191119T110506</lastplayed>
+	</game>
+	<game>
+		<path>./retronetplay.rp</path>
+		<name>RetroArch Online</name>
+		<desc>Set up RetroArch Netplay options, choose host or client, port, host IP, delay frames, and your nickname.</desc>
+		<image>./icons/retronetplay.png</image>
+	</game>
+	<game>
+		<path>./rpsetup.rp</path>
+		<name>RetroPie Config</name>
+		<desc>Install RetroPie from binary or source, install experimental packages, additional drivers, edit samba shares, custom scraper, as well as other RetroPie-related configurations.</desc>
+		<image>./icons/rpsetup.png</image>
+		<playcount>3</playcount>
+		<lastplayed>20191119T110040</lastplayed>
+	</game>
+	<game>
+		<path>./runcommand.rp</path>
+		<name>Run Command Config</name>
+		<desc>Change what appears on the runcommand screen. Enable or disable the menu, enable or disable box art, and change CPU configuration.</desc>
+		<image>./icons/runcommand.png</image>
+	</game>
+	<game>
+		<path>./savestate_selector-redirect.sh</path>
+		<name>Savestate Config</name>
+		<image>./icons/savestate.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20191105T094256</lastplayed>
+	</game>
+	<game>
+		<path>./showip.rp</path>
+		<name>Show IP</name>
+		<desc>Displays your current IP address, as well as other information provided by the command, "ip addr show."</desc>
+		<image>./icons/showip.png</image>
+		<playcount>2</playcount>
+		<lastplayed>20191121T002536</lastplayed>
+	</game>
+	<game>
+		<path>./splashscreen.rp</path>
+		<name>Splash Screens</name>
+		<desc>Enable or disable the splashscreen on RetroPie boot. Choose a splashscreen, download new splashscreens, and return splashscreen to default.</desc>
+		<image>./icons/splashscreen.png</image>
+	</game>
+	<game>
+		<path>./wifi.rp</path>
+		<name>WiFi Config</name>
+		<desc>Connect to or disconnect from a wifi network and configure wifi settings.</desc>
+		<image>./icons/wifi.png</image>
+		<playcount>22</playcount>
+		<lastplayed>20191121T034756</lastplayed>
+	</game>
+</gameList>
